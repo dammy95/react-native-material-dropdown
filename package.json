@@ -36,6 +36,6 @@
     "prop-types": "^15.7.2",
     "react-native-material-buttons": "^0.6.0",
     "react-native-material-ripple": "^0.9.0",
-    "react-native-material-textfield": "https://github.com/TheLartians/react-native-material-textfield.git#147f3b92b24cb3404c3b4a0229b3da30b81e2c7e"
+    "react-native-material-textfield": "SoftMediaLab/react-native-material-dropdown#master"
   }
 }
